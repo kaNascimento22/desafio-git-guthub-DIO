@@ -1,0 +1,5 @@
+08:00 as 12:00 Dio/Teoria
+13:00 as 18:00 Pratica(QA)
+19:20 as 22:00 pratica(Java)
+
+Segunda a domingo.
